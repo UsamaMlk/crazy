@@ -1,0 +1,2 @@
+# crazy
+a student
